@@ -59,9 +59,13 @@ claude install-skill https://github.com/realteamprinz/horse-skill
 - 🐈 [cat.skill](https://github.com/realteamprinz/cat-skill) — Feline intelligence
 - 🦜 [bird.skill](https://github.com/realteamprinz/bird-skill) — Avian intelligence
 - 🐟 [fish.skill](https://github.com/realteamprinz/fish-skill) — Aquatic intelligence
-- 🐴 **horse.skill** — You are here
+- 🐴 **[horse.skill](https://github.com/realteamprinz/horse-skill) — Equine intelligence ← You are here**
 - 🐍 [snake.skill](https://github.com/realteamprinz/snake-skill) — Reptile intelligence
 - 🐰 [rabbit.skill](https://github.com/realteamprinz/rabbit-skill) — Small mammal intelligence
+
+> All species skills inherit from [paw.skill](https://github.com/realteamprinz/paw-skill) — install paw.skill first for core pet distillation capabilities.
+>
+> Full directory: [awesome-pet-skills](https://github.com/realteamprinz/awesome-pet-skills)
 
 ---
 
